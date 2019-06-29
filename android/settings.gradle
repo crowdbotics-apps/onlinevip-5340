@@ -1,0 +1,3 @@
+rootProject.name = 'onlinevip_5340'
+
+include ':app'
